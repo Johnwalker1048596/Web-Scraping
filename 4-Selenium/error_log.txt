@@ -1,0 +1,24 @@
+§j¿€
+A Foggy Tale-https://today.line.me/tw/v3/movie/9m7LoZm/1: Message: no such element: Unable to locate element: {"method":"css selector","selector":"ul.tabs-list.movie li:nth-child(3)"}
+  (Session info: chrome=142.0.7444.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff772e0a235
+	0x7ff772b62630
+	0x7ff7728f16dd
+	0x7ff77294a27e
+	0x7ff77294a58c
+	0x7ff77299ed77
+	0x7ff77299baba
+	0x7ff77293b0ed
+	0x7ff77293bf63
+	0x7ff772e35d60
+	0x7ff772e2fe8a
+	0x7ff772e51005
+	0x7ff772b7d71e
+	0x7ff772b84e1f
+	0x7ff772b6b7c4
+	0x7ff772b6b97f
+	0x7ff772b518e8
+	0x7ffa47337374
+	0x7ffa4813cc91

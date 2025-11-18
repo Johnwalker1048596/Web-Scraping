@@ -66,16 +66,16 @@
         "img": "https://cs-a.ecimg.tw/items/DBABMDA900J5LSJ/000001_1756113216.jpg"
     },
     {
-        "name": "杏仁巧克力酥片x3盒 〔 牛奶巧克力 黑可可 〕",
-        "price": 299,
-        "url": "https://24h.pchome.com.tw/prod/DBACCR-1900HKTRD",
-        "img": "https://cs-a.ecimg.tw/items/DBACCR1900HKTRD/000001_1756704231.jpg"
-    },
-    {
         "name": "保久乳-高鈣牛乳200ml(24入/箱)",
         "price": 269,
         "url": "https://24h.pchome.com.tw/prod/DBAB08-A49138232",
         "img": "https://cs-a.ecimg.tw/items/DBAB08A49138232/000001_1609120178.jpg"
+    },
+    {
+        "name": "杏仁巧克力酥片x3盒 〔 牛奶巧克力 黑可可 〕",
+        "price": 299,
+        "url": "https://24h.pchome.com.tw/prod/DBACCR-1900HKTRD",
+        "img": "https://cs-a.ecimg.tw/items/DBACCR1900HKTRD/000001_1756704231.jpg"
     },
     {
         "name": "克寧高鈣牛乳198mlX24/箱",
@@ -96,16 +96,16 @@
         "img": "https://cs-a.ecimg.tw/items/DBAB08A900J1UCM/000001_1753067927.jpg"
     },
     {
-        "name": "小泡芙享樂夾鏈包 x4包 〔 經典巧克力 香濃牛奶 〕",
-        "price": 511,
-        "url": "https://24h.pchome.com.tw/prod/DBACCR-1900HND6L",
-        "img": "https://cs-a.ecimg.tw/items/DBACCR1900HND6L/000001_1757902007.jpg"
-    },
-    {
         "name": "【旺仔】旺仔牛奶(保久乳飲品)245ml (24入/箱)",
         "price": 648,
         "url": "https://24h.pchome.com.tw/prod/DBAC0O-A900EQSCT",
         "img": "https://cs-a.ecimg.tw/items/DBAC0OA900EQSCT/000001_1688976168.jpg"
+    },
+    {
+        "name": "小泡芙享樂夾鏈包 x4包 〔 經典巧克力 香濃牛奶 〕",
+        "price": 511,
+        "url": "https://24h.pchome.com.tw/prod/DBACCR-1900HND6L",
+        "img": "https://cs-a.ecimg.tw/items/DBACCR1900HND6L/000001_1757902007.jpg"
     },
     {
         "name": "高鈣可可麥芽牛奶 198MLX24入 (效期:2026/01)",
